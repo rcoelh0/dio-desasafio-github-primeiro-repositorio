@@ -1,0 +1,4 @@
+Link para download do Git: https://git-scm.com/downloads
+Link para Sintaxe Básica Markdown: https://www.markdownguide.org/basic-syntax/
+O Git Bash é um terminal extendido para otimizar o uso do Git. Os comandos do Git Bash são
+os mesmos usados no Linux.
